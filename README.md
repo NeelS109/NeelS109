@@ -17,6 +17,6 @@ ___
 - 🎮 - I love to integrate new development skills into my hobbies, such as the [Character Creator](https://agile-peak-22805.herokuapp.com/) project I've worked on.
 
 ___
-[![Github stats](https://github-readme-stats.vercel.app/api?username=seanmonaghan&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=NeelS109&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/NeelS109/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmonaghan&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
