@@ -8,7 +8,7 @@ HTML5, CSS, Javascript, jQuery, Bootstrap, Bulma, Express.js, React.js, Node.js,
 
 
 ### Recent Collaborations: 
-- 📚 - [Bookhunt](https://seanmonaghan.github.io/LyriChord/) - A web application designed to help artists find chords and lyrics for a song in one simple location.
+- 📚 - [Bookhunt](https://srad25.github.io/Book-Hunt/) - A web application designed to help the avid book reader find their next read in one simple location.
 - 👾 - [Player Bank](https://agile-peak-22805.herokuapp.com/) - A web applcation designed to for developers to create game concepts and populate them with characters.
 - 🥾 - [Trek Gambit](https://quiet-harbor-96544.herokuapp.com/) - A web application designed to help you find your best national park experience. 
 ___
